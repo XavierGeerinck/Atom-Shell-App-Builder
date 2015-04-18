@@ -3,6 +3,6 @@
   "version": "0.1.0",
   "devDependencies": {
     "gulp": "^3.8.11",
-    "gulp-atom-shell": "^0.2.0"
+    "gulp-atom-shell": "^0.6.0"
   }
 }
